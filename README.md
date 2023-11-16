@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there <img src="/assets/hi.gif" width="25px" /> I'm Sarikhin </h1>
-<h3 align="center">A passionate Full Stack Developer from Indonesia. Familiar with Python, Django Rest Framework, FastAPI, Flutter .</h3>
+<h3 align="center">A passionate Full Stack Developer from Indonesia. Familiar with Python, Django Rest Framework, FastAPI, Node, Typescipt, Golang and Flutter .</h3>
 
 ---
 
