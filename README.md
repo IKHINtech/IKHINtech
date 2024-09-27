@@ -13,7 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sarikhin-1ca0f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarikhin)](https://www.linkedin.com/in/sarikhin/)<br/>
 [![Gmail Badge](https://img.shields.io/badge/-sarikhinlovestory@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarikhinlovestory@gmail.com)](mailto:sarikhinlovestory@gmail.com)<br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">  
   
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -32,6 +32,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/> </a>
  
 </p>
+<h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="nvim" width="40" height="40"/> </a>
