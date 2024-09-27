@@ -35,7 +35,7 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="nvim" width="40" height="40"/> </a>
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="nvim" width="40" height="40"/> </a>
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
 
