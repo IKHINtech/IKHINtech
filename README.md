@@ -37,6 +37,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="nvim" width="40" height="40"/> </a>
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
 
@@ -48,4 +50,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKHINtech&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 
+<a href="https://github.com/IKHINtech">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IKHINtech&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> 
+</a>
