@@ -6,7 +6,7 @@
 <img align="center" alt="GIF" width="400px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 Working on Indoretreading and Tire Service
-- 🌱 I’m currently learning **React.js**, **Typescript** and **Node.js**
+- 🌱 I’m currently learning **Golang**, **Neovim** and **Next JS**
 
 ## 📫 How to reach me
 
@@ -30,10 +30,11 @@
    <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/> </a>
+  <a href="[https://www.typescriptlang.org/](https://neovim.io/)" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="ts" width="40" height="40"/> </a>
 
 </p>
 
----
+
 
 ### GitHub Analytics
 
@@ -41,6 +42,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKHINtech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKHINtech&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-### WakaTime Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ikhintech&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IKHINtech&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> 
