@@ -40,12 +40,12 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://wezfurlong.org/wezterm/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/mikker/wezterm-icon/blob/main/wezterm.png" alt="wezterm" width="40" height="40"/> </a>
 </p>
-![](https://komarev.com/ghpvc/?username=IKHINtech&color=blueviolet)
 
+![](https://komarev.com/ghpvc/?username=IKHINtech&color=blueviolet)
+![Visitor Count](https://profile-counter.glitch.me/IKHINtech/count.svg)
 
 
 ### GitHub Analytics
-![Visitor Count](https://profile-counter.glitch.me/IKHINtech/count.svg)
 <a href="https://github.com/IKHINtech">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKHINtech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKHINtech&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
