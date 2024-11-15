@@ -42,6 +42,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=IKHINtech&color=blueviolet)
+[![wakatime](https://wakatime.com/badge/user/8df56f25-9379-4cf6-81cb-7963afe73164.svg)](https://wakatime.com/@8df56f25-9379-4cf6-81cb-7963afe73164)
 
 ### GitHub Analytics
 <a href="https://github.com/IKHINtech">
