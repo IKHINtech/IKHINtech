@@ -40,6 +40,7 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://wezfurlong.org/wezterm/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/mikker/wezterm-icon/blob/main/wezterm.png" alt="wezterm" width="40" height="40"/> </a>
 </p>
+![](https://komarev.com/ghpvc/?username=IKHINtech&color=blueviolet)
 
 
 
