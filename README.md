@@ -42,8 +42,6 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=IKHINtech&color=blueviolet)
-![Visitor Count](https://profile-counter.glitch.me/IKHINtech/count.svg)
-
 
 ### GitHub Analytics
 <a href="https://github.com/IKHINtech">
