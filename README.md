@@ -53,3 +53,19 @@
 <a href="https://github.com/IKHINtech">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IKHINtech&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> 
 </a>
+
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IKHINtech/IKHINtech/output/github-contribution-grid-snake-dark.svg" width="100%">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IKHINtech/IKHINtech/output/github-contribution-grid-snake.svg" width="100%">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IKHINtech/IKHINtech/output/github-contribution-grid-snake.svg" width="100%">
+    </picture>
+</div>
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IKHINtech/IKHINtech/output/github-contribution-grid-snake-dark.svg" width="100%">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IKHINtech/IKHINtech/output/github-contribution-grid-snake.svg" width="100%">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IKHINtech/IKHINtech/output/github-contribution-grid-snake.svg" width="100%">
+    </picture>
+</div>
+
