@@ -52,8 +52,8 @@
 
 
 <a href="https://github.com/IKHINtech">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IKHINtech&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IKHINtech&count_private=true&theme=tokyonight" />
+<img  width="390em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IKHINtech&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> 
+  <img  width="390em" src="https://github-readme-streak-stats.herokuapp.com/?user=IKHINtech&count_private=true&theme=tokyonight" />
 </a>
 
 
