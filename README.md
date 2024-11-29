@@ -3,7 +3,7 @@
 
 ---
 
-<img align="center" alt="GIF" width="400px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="center" alt="https://www.sarikhin.my.id" width="400px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 Working on Indoretreading and Tire Service
 - 🌱 I’m currently learning **Rust**, **Neovim** and **Next JS**
