@@ -45,10 +45,18 @@
 [![wakatime](https://wakatime.com/badge/user/8df56f25-9379-4cf6-81cb-7963afe73164.svg)](https://wakatime.com/@8df56f25-9379-4cf6-81cb-7963afe73164)
 
 ### GitHub Analytics
-<img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKHINtech&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img  width="390em" src="https://github-readme-streak-stats.herokuapp.com/?user=IKHINtech&count_private=true&theme=tokyonight" />
-<img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKHINtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img  width="390em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IKHINtech&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> 
-<img src="https://codeium.com/profile/ikhintech/card.png" width="390em" />
+<div>
+  <div>
+    <img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?  username=IKHINtech&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img src="https://codeium.com/profile/ikhintech/card.png" width="390em" />
+  </div>
+  <div>
+    <img  width="390em" src="https://github-readme-streak-stats.herokuapp.com/?user=IKHINtech&count_private=true&theme=tokyonight" />
+    <img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKHINtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img  width="390em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IKHINtech&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> 
+  </div>
+</div>
+
+
 
 
