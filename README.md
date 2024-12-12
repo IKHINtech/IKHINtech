@@ -46,8 +46,8 @@
 
 ### GitHub Analytics
 <a href="https://github.com/IKHINtech">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKHINtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKHINtech&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKHINtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKHINtech&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 
 
