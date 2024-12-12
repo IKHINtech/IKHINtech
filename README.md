@@ -55,6 +55,6 @@
 <img  width="390em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IKHINtech&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> 
   <img  width="390em" src="https://github-readme-streak-stats.herokuapp.com/?user=IKHINtech&count_private=true&theme=tokyonight" />
 </a>
-<img src="https://codeium.com/profile/ikhintech/card.png" width="600" />
+<img src="https://codeium.com/profile/ikhintech/card.png" width="390em" />
 
 
