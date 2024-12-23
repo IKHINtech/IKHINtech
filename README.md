@@ -47,7 +47,7 @@
 ### GitHub Analytics
 <div>
   <div>
-    <img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKHINtech&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKHINtech&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide=php,css"/>
     <img src="https://codeium.com/profile/ikhintech/card.png" width="390em" />
   </div>
   <div>
