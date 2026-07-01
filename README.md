@@ -53,7 +53,7 @@
     <img width="390em" src="https://streak-stats.demolab.com?user=IKHINtech&theme=tokyonight" alt="GitHub Streak" />
     <img  width="390em" src="https://github-readme-streak-stats.herokuapp.com/?user=IKHINtech&count_private=true&theme=tokyonight" />
     <img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKHINtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img  width="390em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IKHINtech&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> 
+   
   </div>
 </div>
 
