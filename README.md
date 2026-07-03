@@ -189,20 +189,6 @@ My main interests include:
     alt="Sarikhin GitHub Streak"
   />
 </p>
-## 📊 GitHub Stats
-
-![](https://komarev.com/ghpvc/?username=IKHINtech&color=blueviolet)
-
-[![wakatime](https://wakatime.com/badge/user/8df56f25-9379-4cf6-81cb-7963afe73164.svg)](https://wakatime.com/@8df56f25-9379-4cf6-81cb-7963afe73164)
-
-<div>
-  <img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKHINtech&layout=compact&langs_count=12&theme=tokyonight&include_all_commits=true&count_private=true&hide=php,css"/>
-</div>
-
-<div>
-  <img width="390em" src="https://streak-stats.demolab.com?user=IKHINtech&theme=tokyonight" alt="GitHub Streak" />
-  <img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKHINtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 
 ## 📈 GitHub Activity
 
