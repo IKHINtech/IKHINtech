@@ -203,7 +203,7 @@ My main interests include:
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=IKHINtech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+    src="https://github-profile-trophy.vercel.app/?username=IKHINtech"
     alt="Sarikhin GitHub Trophies"
   />
 </p>
