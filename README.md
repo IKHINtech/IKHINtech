@@ -149,6 +149,46 @@ My main interests include:
 - **ComposeGuard** — Open-source Go CLI tool for validating Docker Compose configuration.
 - **React PDF Tools** — Browser-based PDF editor for merge, reorder, insert, text, image, and signature workflows.
 
+## 🚀 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/IKHINtech/composeguard">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=IKHINtech&repo=composeguard&theme=tokyonight"
+      alt="ComposeGuard"
+    />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IKHINtech&color=blueviolet" alt="Profile views" />
+  <a href="https://wakatime.com/@8df56f25-9379-4cf6-81cb-7963afe73164">
+    <img src="https://wakatime.com/badge/user/8df56f25-9379-4cf6-81cb-7963afe73164.svg" alt="WakaTime" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    width="420em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKHINtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="Sarikhin GitHub Stats"
+  />
+  <img
+    width="420em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IKHINtech&layout=compact&langs_count=12&theme=tokyonight&include_all_commits=true&count_private=true&hide=php,css"
+    alt="Sarikhin Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="420em"
+    src="https://streak-stats.demolab.com?user=IKHINtech&theme=tokyonight&hide_border=true"
+    alt="Sarikhin GitHub Streak"
+  />
+</p>
 ## 📊 GitHub Stats
 
 ![](https://komarev.com/ghpvc/?username=IKHINtech&color=blueviolet)
@@ -163,3 +203,30 @@ My main interests include:
   <img width="390em" src="https://streak-stats.demolab.com?user=IKHINtech&theme=tokyonight" alt="GitHub Streak" />
   <img width="390em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IKHINtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IKHINtech&theme=tokyo-night&hide_border=true&area=true"
+    alt="Sarikhin GitHub Activity Graph"
+  />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=IKHINtech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+    alt="Sarikhin GitHub Trophies"
+  />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/IKHINtech/IKHINtech/output/snake.svg"
+    alt="Sarikhin contribution snake"
+  />
+</p>
